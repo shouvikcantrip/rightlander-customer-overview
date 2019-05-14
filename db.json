@@ -1,0 +1,50 @@
+{
+  "customers": [
+    {
+      "affiliate_site": "bettingexpert.com",
+      "latest_scan" : "07/05/19",
+      "status": "Complete",
+      "geo" : "GB",
+      "pages_scanned": "19,999",
+      "compliance_issue_new": 31,
+      "compliance_issue_existing": 104 
+    },
+    {
+      "affiliate_site": "bettingexpert.com",
+      "latest_scan" : "07/05/19",
+      "status": "Complete",
+      "geo" : "GB",
+      "pages_scanned": "19,999",
+      "compliance_issue_new": 31,
+      "compliance_issue_existing": 104 
+    },
+    {
+      "affiliate_site": "playslots.com",
+      "latest_scan" : "07/05/19",
+      "status": "Complete",
+      "geo" : "GB",
+      "pages_scanned": "6,922",
+      "compliance_issue_new": 4,
+      "compliance_issue_existing": 12 
+    },
+    {
+      "affiliate_site": "onlinecasino.co.uk",
+      "latest_scan" : "07/05/19",
+      "status": "Complete",
+      "geo" : "GB",
+      "pages_scanned": "493",
+      "compliance_issue_new": 1,
+      "compliance_issue_existing": 0 
+    },
+    {
+      "affiliate_site": "bettingexpert.com",
+      "latest_scan" : "07/05/19",
+      "status": "Complete",
+      "geo" : "GB",
+      "pages_scanned": "19,999",
+      "compliance_issue_new": 31,
+      "compliance_issue_existing": 104 
+    }
+
+  ]
+}
